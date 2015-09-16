@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 維摩詰所說經
+#+DATE: 2015-08-30 20:09:09.983598
+#+PROPERTY: JUAN 0
