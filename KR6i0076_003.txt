@@ -9,7 +9,7 @@
 #+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0076_T_003-0552a> 
 #+PROPERTY: JUAN 3
-¶
+<pb:KR6i0076_T_003-0552a>¶
 ¶
 《維摩詰所說經》卷下¶
 姚秦三藏鳩摩羅什譯¶
