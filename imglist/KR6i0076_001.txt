@@ -29,6 +29,7 @@
 001-0543c13	TKD 09-0986c	buddhist/K-koreana/09-tif/0900-0999/09_0986_C.TIF
 001-0544a04	TKD 09-0987a	buddhist/K-koreana/09-tif/0900-0999/09_0987_A.TIF
 001-0544a22	TKD 09-0987b	buddhist/K-koreana/09-tif/0900-0999/09_0987_B.TIF
+001-0537a00	T 001-0537a	buddhist/T-taisho/T14/05/T14-0537.png
 001-0537b00	T 001-0537b	buddhist/T-taisho/T14/05/T14-0537.png
 001-0537c00	T 001-0537c	buddhist/T-taisho/T14/05/T14-0537.png
 001-0538a00	T 001-0538a	buddhist/T-taisho/T14/05/T14-0538.png
